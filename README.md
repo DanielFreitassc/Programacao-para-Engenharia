@@ -1,3 +1,3 @@
 # Repositório para Engenharia de Computação 
-- Olá meu nome é Daniel Freitas estudante de Engenharia de Computação.
+## Aqui resolvo os exercicios da aula de programação.
 > "A vida é como um código, cheia de desafios e possibilidades infinitas." - Autor Desconhecido
