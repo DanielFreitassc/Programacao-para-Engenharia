@@ -3,7 +3,7 @@ numero = int(input("Insira um número inteiro positivo: "))          # Aqui pedi
                                                                     
 while numero != -1:                                                 # Aqui dizemos em codigo: Enquanto numero não for -1 o codigo ira repetir.
     if numero >0:                                                   # Se numero for maior que 0.
-        numeros.append(numero)                                      # Ele adicionara o numero a lista
+        numeros.append(numero)                                      # Ele adicionara o numero a lista.
     numero = int(input("Insira um número inteiro positivo: "))      # Aqui pedimos para o usuário um número inteiro positvo. 
 if len(numeros) > 0:                                                # se tamanho da lista for maior que 0 o codigo abaixo sera executado.
     soma = sum(numeros)                                             # Aqui somamos os elementos da lista usando o sum().
