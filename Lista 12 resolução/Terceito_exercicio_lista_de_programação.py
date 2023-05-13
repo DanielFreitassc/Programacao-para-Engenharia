@@ -11,5 +11,5 @@ for i in range(1,11):                                                           
     media = (nota1 + nota2 + nota3 + nota4)/4                                      # Aqui vamos fazer uma média com as notas.
     notas.append(media)                                                            # Aqui adicionamos a media das notas na lista notas.
     if media >=7:                                                                  # se a media for maior igual a 7 entrara no if.
-        alunos_media_7 += 1                                                        # Aqui sera somado 1 a cada aluno com media maior ou igual a 7
+        alunos_media_7 += 1                                                        # Aqui sera somado 1 a cada aluno com media maior ou igual a 7.
         print("Alunos com nota maior ou igual a 7 = {}".format(alunos_media_7))    # Aqui mostrara para o usário  a quantidades de alunos com nota maior ou igual a 7.
