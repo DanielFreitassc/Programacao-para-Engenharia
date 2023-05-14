@@ -1,6 +1,9 @@
+#   3 - Desenvolva um script em linguagem Python que peça as quatro
+#   notas de 10 alunos, calcule e armazene num vetor a média de cada
+#   aluno, imprima o número de alunos com média maior ou igual a 7
+
 notas = []                                                                        # Aqui criamos uma lista com nome de notas.
 alunos_media_7 = 0                                                                # Aqui criamos uma variavel e atribuimos um valor a ela.   
-
 
 for i in range(10):                                                               # For sera executado repetidas vezes com base no valor de range.
     print("Insira a nota do aluno: ")                                             # Aqui mostramos uma mensagem para o usuário pedindo para insirir a nota do aluno
