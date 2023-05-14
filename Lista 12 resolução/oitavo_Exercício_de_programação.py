@@ -2,13 +2,13 @@
 #   seguintes campos: nome, idade, endereço e telefone e mostre os dados no
 #   final.
 
-nome = input("Nome: ")                                  # Aqui criamos uma variavel que receve o nome.
-idade = input("Idade: ")                                # Aqui criamos uma variavel que receve o idade.
-endereco = input("Endereço: ")                          # Aqui criamos uma variavel que receve o endereço.
-telefone = input("Telefone: ")                          # Aqui criamos uma variavel que receve o telefone.
+nome = input("Nome: ")                                  # Aqui criamos uma variavel que recebe o nome.
+idade = input("Idade: ")                                # Aqui criamos uma variavel que recebe o idade.
+endereco = input("Endereço: ")                          # Aqui criamos uma variavel que recebe o endereço.
+telefone = input("Telefone: ")                          # Aqui criamos uma variavel que recebe o telefone.
 
-dic = {"nome": nome ,"idade" : idade,                   # Aqui criamos um dicionirio que receve os valores da variavel anterior.
-        "endereço" : endereco, "telefone" : telefone}   # Aqui criamos um dicionirio que receve os valores da variavel anterior.
+dic = {"nome": nome ,"idade" : idade,                   # Aqui criamos um dicionario que recebe os valores da variavel anterior.
+        "endereço" : endereco, "telefone" : telefone}   # Aqui criamos um dicionario que recebe os valores da variavel anterior.
                                                             
 print("Dados: ")                                        # Aqui mostramos para o usuário uma mensagem.
 print("Nome:", dic["nome"])                             # Aqui mostramos a variavel nome dentro do dicionario.
