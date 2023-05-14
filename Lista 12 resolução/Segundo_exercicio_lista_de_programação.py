@@ -1,3 +1,6 @@
+#  2 - Elabore um script em linguagem Python que leia de 10 números
+#  reais, inserindo-os numa lista e ao final, mostre-os na ordem inversa.
+
 lista = []                                            # Aqui criamos uma lista.
 for i in range(1,11):                                 # Aqui usamos o "for" para repetir o codigo 10 vezes como solicitado na atividade.
     numero = int(input("Insira um número inteiro: ")) # Aqui recebemos o número do usuário. 
