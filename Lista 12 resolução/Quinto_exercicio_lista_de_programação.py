@@ -1,3 +1,10 @@
+#   5 - Dada uma lista L de n valores inteiros, elabore um programa que remova
+#   todos os números pares da lista.
+#   Exemplo:
+#   Tamanho da lista L: 10
+#   L:1 2 3 4 5 6 7 8 9 10
+#   Resposta: 1 3 5 7 9
+
 lista = [1,2,3,4,5,6,7,8,9,10]                     # Aqui criamos uma lista de 1 até o 10.
 nova_lista = []                                    # Aqui criamos a nossa nova lista.
         
