@@ -4,5 +4,3 @@
 #  dicionário, o programa deve imprimir os itens da compra e calcular o
 #  subtotal de cada um deles, ou seja, quantidade * preço unitário. Por fim,
 #  o programa deve apresentar o valor total da compra
-
-

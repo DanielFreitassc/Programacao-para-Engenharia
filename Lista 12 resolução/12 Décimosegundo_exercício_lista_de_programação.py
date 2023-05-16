@@ -12,7 +12,8 @@ produtos = {                                                        # Aqui criam
 }
 
 itens_comprador = {}                                                # Aqui crimos um dicionario vazio.
-
+for produto in produtos.items():                                    # Para cada produto em produtos.
+    print(produto)                                                  # Mostre produto.
 for i in range(3):                                                  # Para cara i em raio de 3.
     nome_produto = input("Insira o nome do produto: ")              # Aqui criamos uma variavel com nome de nome_produto que recebe uma string do usuário.
     itens_comprador[nome_produto] = produtos.get(nome_produto)      # Aqui chamamos o dicionario e ele retorna o valor de uma chave.
