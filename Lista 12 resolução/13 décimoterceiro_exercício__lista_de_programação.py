@@ -1,3 +1,9 @@
+#    13- Desenvolver um programa que leia a altura de 15 pessoas. Este programa
+#   deverá calcular e mostrar:
+#   a. A menor altura do grupo;
+#   b. A maior altura do grupo;
+#   c. Em uma lista cada um dos dados de entrada.
+
 lista = []                                              # Aqui Criamos uam lista para a altura
 
 for i in range(5):                                      # Aqui dizemos que for repetira 15 vezes pedindo a altura.
