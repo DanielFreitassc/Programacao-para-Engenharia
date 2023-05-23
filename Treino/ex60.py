@@ -1,0 +1,1 @@
+print("\033[0;42;42m Me paga uma babbão \033[m")
